@@ -4,7 +4,6 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Part1 {
-
     public static void main(String[] args) {
         // part 1
         Scanner sc = new Scanner(System.in);
