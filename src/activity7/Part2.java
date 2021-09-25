@@ -7,7 +7,6 @@ public class Part2 {
 
     private static final int SIZE = 5;
 
-    ///
     public static void main(String[] args) {
         Random randomGenerator = new Random();
         int high = 76;
@@ -82,7 +81,6 @@ public class Part2 {
         for (int j : array) {
             result += j + " ";
         }
-
         return result;
     }
 }
